@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+pandas
+scikit-learn
+joblib
+streamlit
+matplotlib
+seaborn
+plotly
